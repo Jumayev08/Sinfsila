@@ -9,7 +9,7 @@ from sqlalchemy import create_engine, Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 
-API_TOKEN = '6563336446:AAGbsgymHNM1OuptD-AzLZC3f9nO8iNn8dE'
+API_TOKEN = '7829308236:AAGQ712pARBUGF3Hba0hOSMXP9AalaUuVyc'
 CHANNEL_ID = '@try_motivation'  # Majburiy obuna bo'lish kerak bo'lgan kanal
 
 bot = Bot(token=API_TOKEN)
